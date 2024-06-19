@@ -6,7 +6,6 @@ Developer. Afterist. Video Editing. Video Color Grading.
 --------------------------------------------------------
 
 * 🌍  I'm based in TLV, IL
-* ✉️  You can contact me at [Michaelyehezkel@gmail.com](mailto:Michaelyehezkel@gmail.com)
 * 🧠  I'm learning Everything JavaScript
 
 ### Skills
